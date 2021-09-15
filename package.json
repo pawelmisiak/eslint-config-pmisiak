@@ -1,6 +1,6 @@
 {
-   "name": "eslint-config-pmisiak",
-   "version": "1.0.0",
+   "name": "eslint-config-pawelmisiak",
+   "version": "1.0.1",
    "description": "testing sharing options",
    "main": "index.js",
    "files": [
