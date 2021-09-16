@@ -1,5 +1,5 @@
 {
-  "name": "eslint-config-pm",
+  "name": "@pawelmisiak/eslint-config-pm",
   "version": "1.0.0",
   "description": "ESLint + Prettier config for React (Next.js)",
   "main": "index.js",
