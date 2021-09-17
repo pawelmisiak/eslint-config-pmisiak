@@ -1,6 +1,7 @@
 const base = require('./lib/base.js');
 const next = require('./lib/next.js');
 const react = require('./lib/react.js');
+const prettier = require('./lib/prettier.js');
 
 module.exports = {
    extends: ['airbnb', 'airbnb/hooks', 'plugin:prettier/recommended'],
@@ -23,6 +24,7 @@ module.exports = {
       ...base,
       ...next,
       ...react,
+      ...prettier,
    },
    settings: {
       react: {
